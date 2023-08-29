@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sree D</h1>
+<h3 align="center">I'm interested in Data Analytics and Business Intelligence</h3>
 
-<!--
-**dspr2717/dspr2717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **various technologies in Data Industry**
 
-Here are some ideas to get you started:
+- 👨‍💻 Tableau Link [https://public.tableau.com/app/profile/sreephani.devireddy](https://public.tableau.com/app/profile/sreephani.devireddy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Python, SQL, Tableau, Power BI & Excel**
+
+- 📫 How to reach me **sreephanidevireddy22@gmail.com**
+
+- 💻 I’m looking for **Data Analyst/Business Analyst/Business Intelligence jobs**
+
+
