@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **various technologies in Data Industry**
 
-- 👨‍💻 Tableau Link [https://public.tableau.com/app/profile/dspr2717](https://public.tableau.com/app/profile/dspr2717)
 
 - 💬 Ask me about **Python, SQL, Tableau, Power BI & Excel**
 - 💻 I’m looking for **Data Analyst/Business Analyst/Business Intelligence jobs**
